@@ -6,11 +6,11 @@ class Ball {
     }
 
     get positionX() {
-
+        return this._positionX;
     }
 
     get positionY() {
-
+        return this._positionY;
     }
 
 }
