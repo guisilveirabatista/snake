@@ -8,15 +8,15 @@ class Snake {
     }
 
     get size() {
-
+        return this._size;
     }
 
     get positionX() {
-
+        return this._positionX;
     }
 
     get positionY() {
-
+        return this._positionY;
     }
 
     up() {

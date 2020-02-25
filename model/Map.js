@@ -6,11 +6,11 @@ class Map {
     }
 
     get height() {
-
+        return this._height;
     }
 
     get width() {
-
+        return this._width;
     }
 
 }
